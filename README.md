@@ -1,6 +1,6 @@
 ## Intro
 
-aliyun-mns
+aliyun_mns_queue
 
 阿里云消息队列
 
@@ -8,7 +8,7 @@ aliyun-mns
 
 ```
 
-gem "aliyun-mns"
+gem "aliyun_mns_queue"
 
 AliyunMns.setup do |config|
   config.access_key = 'abc...'
