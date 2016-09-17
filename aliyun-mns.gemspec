@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |s|
   s.name          = 'aliyun_mns_queue'
-  s.version       = '0.0.1'
+  s.version       = '0.0.2'
   s.authors       = ['Alvin Ye']
   s.email         = ['alvin.ye.cn@gmail.com']
   s.description   = %q{ruby client for aliyun mns queue without topic}
